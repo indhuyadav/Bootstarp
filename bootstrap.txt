@@ -1,0 +1,12 @@
+BootStrap:
+
+-->it was introduced by twitter company(X)
+-->it is a open source framework
+-->mark ottto and jacob developeed botstrap framework.
+-->bootstrap is used to develop a mobile application and it is responsive.
+
+
+-->BootStrap consists of:
+ html, css  (SASS and LESS pre-processor of css), javascript(jquery and popper lirbary for the javascript).
+
+ -->meta tag is used for responsive purpose
